@@ -1,2 +1,2 @@
 # MC-NPT-ensemble
-A python dealing with Monte Carlo Simulation in an NPT Ensemble.
+A python code dealing with Monte Carlo Simulation in an NPT Ensemble.
